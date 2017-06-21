@@ -88,7 +88,7 @@ integrators downstream of complex disease-associated SNPs.” *Journal of Biomed
 
 ### Short Course
 
-`10/16/2017`
+`10/16/2016`
 Short Course: Computational methods for precision medicine and single subject studies with genomes and transcriptomes. (_The 6th Annual Translational Bioinformatics Conference_, Jeju, Korea)
 
 ### Talks
@@ -99,7 +99,7 @@ Joint Statistical Meetings (JSM) (_JSM_, Baltimore, USA)
 `6/27/2017`
 WNAR Annual Meeting (_WNAR_, Santa Fe, USA)
 
-`10/16/2017`
+`10/16/2016`
 Title ... (_The 6th Annual Translational Bioinformatics Conference_, Jeju, Korea)
 
 ## Technical skills
