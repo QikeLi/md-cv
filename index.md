@@ -8,9 +8,9 @@ Statistical Informatics PhD and data scientist
 <div id="webaddress">
 <a href="mailto:qikeli@gmail.com">qikeli at gmail dot com</a>
 |
-<i class="fa fa-github"></i> <a href="http://github.com/qike-li">Qike-Li</a>
+<i class="fa fa-github"></i> <a href="http://github.com/QikeLi">QikeLi</a>
 |
-<i class="fa fa-twitter"></i> <a href="http://twitter.com/">Qike_Li</a>
+<i class="fa fa-twitter"></i> <a href="http://twitter.com/Qike_Li/">Qike_Li</a>
 </div>
 
 
@@ -107,8 +107,8 @@ Title ... (_The 6th Annual Translational Bioinformatics Conference_, Jeju, Korea
 ## Links
 
 * <i class="fa fa-envelope"></i> <a href="qikeli@gmail.com">qikeli at gmail dot com</a><br />
-* <i class="fa fa-github"></i> <a href="http://github.com/qike-li">Qike-Li</a><br />
-*  <i class="fa fa-twitter"></i> <a href="http://twitter.com/Qike-Li">Qike-Li</a><br />
+* <i class="fa fa-github"></i> <a href="http://github.com/QikeLi">QikeLi</a><br />
+*  <i class="fa fa-twitter"></i> <a href="http://twitter.com/Qike_Li">Qike_Li</a><br />
 * <i class="fa fa-google"></i> <a href="http://scholar.google.com/citations?user=YMxsGpsAAAAJ">scholar</a>
 
 ## References
