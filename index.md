@@ -8,7 +8,7 @@ Statistical Informatics PhD and data scientist
 <div id="webaddress">
 
 
-<i class="fa fa-user"></i> <a href="https://qikeli/github.io">Website</a>
+<i class="fa fa-user"></i> <a href="https://qikeli.github.io">Website</a>
 |
 <i class="fa fa-envelope"></i> <a href="mailto:qikeli@gmail.com">qikeli at gmail dot com</a>
 |
@@ -30,6 +30,8 @@ I'm a Ph.D candidate at [Statistics GIDP](http://stat.arizona.edu/), University 
 __PhD Candidate in Statistics–Statistical Informatics track__  University of Arizona  
 
 Statistics Graduate Interdisciplinary Program (GIDP),
+
+Minor in Biostatistics
 
 Advisors: Hao Helen Zhang (Statistics) & Yves A. Lussier (Bioinformatics)
 
