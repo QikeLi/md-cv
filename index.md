@@ -45,7 +45,7 @@ __BS Biotechnology__ Zhengzhou University
 
 ## Appointment
 
-`2014-current` 
+`2014-present` 
 __Research Assistant__ [Lussier Group, Center for Biomedical Informatics & Biostatistics](http://www.lussiergroup.org/),  University of Arizona
 
 Developing statistical informatics methodology for precision medicine. Engaging in interdisciplinary research: working with an expert team of statisticians, physicians, engineers, biologists, geneticists, and computer scientists. Responsibilities include original research, statistical support, grant writing, and software engineering.
@@ -107,6 +107,7 @@ Title ... (_The 6th Annual Translational Bioinformatics Conference_, Jeju, Korea
 * R
 * LaTeX
 * UNIX and BASH
+* Python
 * HTML and CSS
 * Adobe Illustrator
 * Emacs and Elisp
