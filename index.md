@@ -24,23 +24,6 @@ Statistical Informatics PhD and data scientist
 
 I'm a Ph.D candidate at [Statistics GIDP](http://stat.arizona.edu/), University of Arizona. 
 
-## Appointment
-
-`2014-current` 
-__Research Assistant__ [Lussier Group, Center for Biomedical Informatics & Biostatistics](http://www.lussiergroup.org/),  University of Arizona
-
-Developing statistical informatics methodology for precision medicine. Engaging in interdisciplinary research: working with an expert team of statisticians, physicians, engineers, biologists, geneticists, and computer scientists. Responsibilities include original research, statistical support, grant writing, and software engineering.
-
-`2013-2014`
-__Research Assistant__ Fionna McCarthy Group, University of Arizona
-
-Developed statistical informatics methodology for RNA-Seq analysis.
-
-`2010-2012`
-__Research Technician__ Rick Michod Group,  University of Arizona
-
-Studied the evolution of multicellularity by using bioinformatics, comparative genomics, phylogenetic analysis and molecular biology.g
-
 ## Education
 
 `2012-present`
@@ -57,6 +40,23 @@ __MS Molecular Biology__ Guizhou University
 
 `2001-2005`
 __BS Biotechnology__ Zhengzhou University
+
+## Appointment
+
+`2014-current` 
+__Research Assistant__ [Lussier Group, Center for Biomedical Informatics & Biostatistics](http://www.lussiergroup.org/),  University of Arizona
+
+Developing statistical informatics methodology for precision medicine. Engaging in interdisciplinary research: working with an expert team of statisticians, physicians, engineers, biologists, geneticists, and computer scientists. Responsibilities include original research, statistical support, grant writing, and software engineering.
+
+`2013-2014`
+__Research Assistant__ Fionna McCarthy Group, University of Arizona
+
+Developed statistical informatics methodology for RNA-Seq analysis.
+
+`2010-2012`
+__Research Technician__ Rick Michod Group,  University of Arizona
+
+Studied the evolution of multicellularity by using bioinformatics, comparative genomics, phylogenetic analysis and molecular biology.g
 
 
 ## Publications<br /> [[Google Scholar profile]](https://scholar.google.com/citations?user=aB0lJKkAAAAJ&hl=en)
