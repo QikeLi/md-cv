@@ -6,7 +6,11 @@ title: Qike's CV
 Statistical Informatics PhD and data scientist
 
 <div id="webaddress">
-<a href="mailto:qikeli@gmail.com">qikeli at gmail dot com</a>
+
+
+<i class="fa fa-user"></i> <a href="https://qikeli/github.io">Website</a>
+|
+<i class="fa fa-envelope"></i> <a href="mailto:qikeli@gmail.com">qikeli at gmail dot com</a>
 |
 <i class="fa fa-github"></i> <a href="http://github.com/QikeLi">QikeLi</a>
 |
@@ -106,6 +110,7 @@ Title ... (_The 6th Annual Translational Bioinformatics Conference_, Jeju, Korea
 
 ## Links
 
+* <i class="fa fa-user"></i> <a href="https://qikeli.github.io">Qike's Website</a>
 * <i class="fa fa-envelope"></i> <a href="qikeli@gmail.com">qikeli at gmail dot com</a><br />
 * <i class="fa fa-github"></i> <a href="http://github.com/QikeLi">QikeLi</a><br />
 *  <i class="fa fa-twitter"></i> <a href="http://twitter.com/Qike_Li">Qike_Li</a><br />
