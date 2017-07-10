@@ -94,13 +94,13 @@ Short Course: Computational methods for precision medicine and single subject st
 ### Talks
 
 `7/302017`
-Joint Statistical Meetings (JSM) (Baltimore, USA)
+[Joint Statistical Meetings (JSM)](https://ww2.amstat.org/meetings/jsm/2017/) (Baltimore, USA) [[slides]](https://qikeli.github.io/JSM-2017-presentation/)
 
 `6/27/2017`
-WNAR Annual Meeting (Santa Fe, USA)
+[WNAR Annual Meeting](http://www.wnar.org/resources/Pictures/WNARConferenceProgram_2017_16JUN2017_TO_PRINTER.pdf) (Santa Fe, USA) [[slides]](https://qikeli.github.io/WNAR-2017-presentation/)
 
 `10/16/2016`
-The 6th Annual Translational Bioinformatics Conference (Jeju, Korea)
+[The 6th Annual Translational Bioinformatics Conference](http://www.snubi.org/TBC2016/) (Jeju, Korea) [[slides]](https://www.slideshare.net/QIKELI/nof1pathways-mixenrich)
 
 ## Awards
 `June 2017`
