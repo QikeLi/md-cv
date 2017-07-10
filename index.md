@@ -94,13 +94,23 @@ Short Course: Computational methods for precision medicine and single subject st
 ### Talks
 
 `7/302017`
-Joint Statistical Meetings (JSM) (_JSM_, Baltimore, USA)
+Joint Statistical Meetings (JSM) (Baltimore, USA)
 
 `6/27/2017`
-WNAR Annual Meeting (_WNAR_, Santa Fe, USA)
+WNAR Annual Meeting (Santa Fe, USA)
 
 `10/16/2016`
-Title ... (_The 6th Annual Translational Bioinformatics Conference_, Jeju, Korea)
+The 6th Annual Translational Bioinformatics Conference (Jeju, Korea)
+
+## Awards
+`June 2017`
+Distinguished Written Paper Award (WNAR)
+
+`Summer 2017`
+HE Carter Travel Award (Graduate Interdisciplinary Programs, University of Arizona)
+
+`Fall 2016`
+[HE Carter Travel Award](https://gidp.arizona.edu/qike-lis-abstracts) (Graduate Interdisciplinary Programs, University of Arizona)
 
 ## Technical skills
 
