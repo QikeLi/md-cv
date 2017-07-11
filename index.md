@@ -88,12 +88,15 @@ integrators downstream of complex disease-associated SNPs.” *Journal of Biomed
 
 ### Short Course
 
-`10/16/2016`
+`10/15/2016`
 Short Course: Computational methods for precision medicine and single subject studies with genomes and transcriptomes. (_The 6th Annual Translational Bioinformatics Conference_, Jeju, Korea)
 
 ### Talks
 
 `7/302017`
+[The 7th Annual Translational Bioinformatics Conference,](https://ritchielab.psu.edu/tbc2017/program) (Los Angeles, USA) [[slides]](https://qikeli.github.io/TBC-2017-presentation/)
+
+`7/30/2017`
 [Joint Statistical Meetings (JSM)](https://ww2.amstat.org/meetings/jsm/2017/) (Baltimore, USA) [[slides]](https://qikeli.github.io/JSM-2017-presentation/)
 
 `6/27/2017`
