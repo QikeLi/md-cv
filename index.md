@@ -118,13 +118,15 @@ HE Carter Travel Award (Graduate Interdisciplinary Programs, University of Arizo
 ## Technical skills
 
 * R
-* LaTeX
-* UNIX and BASH
-* Python
+* Shell
 * HTML and CSS
-* Adobe Illustrator
-* Emacs and Elisp
+* Python
 * Cluster computing
+* Emacs and Elisp
+* SQL
+* LaTex
+* Adobe Illustrator
+
 
 ## Links
 
@@ -137,7 +139,7 @@ HE Carter Travel Award (Graduate Interdisciplinary Programs, University of Arizo
 
 ## References
 
-Available on request.
+Available upon request.
 
 <!-- ### Footer
 
