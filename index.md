@@ -124,6 +124,7 @@ HE Carter Travel Award (Graduate Interdisciplinary Programs, University of Arizo
 * Cluster computing
 * Emacs and Elisp
 * SQL
+* Git and GitHub
 * LaTex
 * Adobe Illustrator
 
@@ -135,7 +136,7 @@ HE Carter Travel Award (Graduate Interdisciplinary Programs, University of Arizo
 * <i class="fa fa-github"></i> <a href="http://github.com/QikeLi">QikeLi</a><br />
 * <i class="fa fa-twitter"></i> <a href="http://twitter.com/Qike_Li">Qike_Li</a><br />
 * <i class="fa fa-google"></i> <a href="http://scholar.google.com/citations?user=YMxsGpsAAAAJ">scholar</a>
-* <i class="fa fa-file-pdf-o"></i> <a href="https://qikeli.github.io/files/CV-Qike-Li-2017.pdf">CV</a>
+* <i class="fa fa-file-pdf-o"></i> <a href="https://qikeli.github.io/files/CV/CV-Qike-Li-2017.pdf">CV</a>
 
 ## References
 
